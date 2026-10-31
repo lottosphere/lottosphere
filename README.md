@@ -1,16 +1,22 @@
-## Hi there 👋
+Lotto Sphere
 
-<!--
-**lottosphere/LottoSphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An independent Philippine lottery results archive.
 
-Here are some ideas to get you started:
+Lotto Sphere is a project focused on organizing, preserving, and presenting historical lottery results from the Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project Information
+
+- Project: Lotto Sphere
+- Focus: Historical lottery results
+- Coverage: Philippines
+- Primary Data Source: Philippine Charity Sweepstakes Office (PCSO)
+
+Our Goal
+
+To make historical lottery results accessible through a simple, organized, and reliable platform.
+
+More features and capabilities will be introduced as the project develops.
+
+---
+
+Disclaimer: Lotto Sphere is an independent project and is not affiliated with, endorsed by, or operated by PCSO.
